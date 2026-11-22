@@ -17,7 +17,8 @@ students = [
     ["Kashif", 22, "Software Engineering", 90],
     ["Ali", 21, "Computer Science", 85],
     ["Ahmed", 23, "IT", 88],
-    ["Sara", 22, "Software Engineering", 92]
+    ["Sara", 22, "Software Engineering", 92],
+    ["Zara", 21, "Computer Science", 87]
 ]
 
 # Step 3: Create CSV file path
